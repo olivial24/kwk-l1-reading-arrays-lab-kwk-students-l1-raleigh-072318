@@ -1,4 +1,4 @@
-STUDENT_NAMES = [
+studentNames = [
   "Adele",
   "Beyoncé",
   "Cardi B",
@@ -7,26 +7,18 @@ STUDENT_NAMES = [
   "Rihanna"
 ]
 
-def first_student_by_index
-  # Write a solution that returns the first student in the array student_names
+studentNames.each[0] do |student|
+    puts student
 end
 
-def fourth_student_by_index
   # Write a solution that returns the first student in the array student_names
-end
 
-def last_student_by_index
   # Write a solution that returns the first student in the array student_names
-end
 
-def first_student_by_method
+  # Write a solution that returns the first student in the array student_names
+
   # Write a solution that returns the first student using the built in .first method
-end
 
-def last_student_by_method
   # Write a solution that returns the first student using the built in .last method
-end
 
-def first_second_and_third_students
   # Write a solution that returns the first, second and third students
-end
