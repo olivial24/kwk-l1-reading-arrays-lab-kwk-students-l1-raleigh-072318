@@ -7,7 +7,7 @@ student_Names = [
   "Rihanna"
 ]
 
-student_Names.each [0..2]
+student_Names [0..2]
  
 
   # Write a solution that returns the first student in the array student_names
