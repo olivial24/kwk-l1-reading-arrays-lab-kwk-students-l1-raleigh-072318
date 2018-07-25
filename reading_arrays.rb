@@ -7,7 +7,7 @@ student_Names = [
   "Rihanna"
 ]
 
-student_Names[0] do |student|
+student_Names.first do |student|
     puts student
 end
 
