@@ -8,6 +8,8 @@ student_Names = [
 ]
 
 student_Names[0]
+ puts student_Names
+ end 
 
   # Write a solution that returns the first student in the array student_names
 
