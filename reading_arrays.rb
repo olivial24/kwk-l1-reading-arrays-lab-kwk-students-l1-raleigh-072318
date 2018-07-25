@@ -8,8 +8,8 @@ student_Names = [
 ]
 
 
- puts "#{student_Names[0]}"  
- puts student_Names. 
+   
+ puts "#{student_Names[5]}"
 
   # Write a solution that returns the first student in the array student_names
 
