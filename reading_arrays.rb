@@ -9,7 +9,7 @@ student_Names = [
 
 
  puts "#{student_Names[0]}"  
- puts student_Names.last 
+ puts student_Names. 
 
   # Write a solution that returns the first student in the array student_names
 
