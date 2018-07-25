@@ -1,4 +1,4 @@
-studentNames = [
+student_Names = [
   "Adele",
   "Beyoncé",
   "Cardi B",
@@ -7,7 +7,7 @@ studentNames = [
   "Rihanna"
 ]
 
-studentNames.each[0] do |student|
+student_Names.each[0] do |student|
     puts student
 end
 
