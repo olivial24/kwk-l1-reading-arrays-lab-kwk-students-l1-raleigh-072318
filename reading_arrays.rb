@@ -7,9 +7,7 @@ student_Names = [
   "Rihanna"
 ]
 
-student_Names[0] |student|
-    puts student
-end
+student_Names[0]
 
   # Write a solution that returns the first student in the array student_names
 
