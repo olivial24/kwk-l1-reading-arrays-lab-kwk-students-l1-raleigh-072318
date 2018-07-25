@@ -8,7 +8,7 @@ student_Names = [
 ]
 
 student_Names[0] do |student|
-    puts student_Names
+    puts student
 end
 
   # Write a solution that returns the first student in the array student_names
