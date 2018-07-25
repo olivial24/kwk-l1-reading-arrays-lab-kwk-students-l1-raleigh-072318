@@ -7,8 +7,8 @@ student_Names = [
   "Rihanna"
 ]
 
-
- puts "#{student_Names[0,1,2]}"
+ student_Names.each do "#{0,1,2}"
+ 
 
   # Write a solution that returns the first student in the array student_names
 
