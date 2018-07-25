@@ -7,7 +7,9 @@ student_Names = [
   "Rihanna"
 ]
 
- student_Names[0]
+student_Names.each do |firstsecondthird|
+  puts firstsecondthird
+end 
  
 
   # Write a solution that returns the first student in the array student_names
