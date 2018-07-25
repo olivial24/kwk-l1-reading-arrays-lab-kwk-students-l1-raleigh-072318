@@ -8,7 +8,7 @@ student_Names = [
 ]
 
 student_Names.each[0] do |student|
-    puts student
+    puts student_Names
 end
 
   # Write a solution that returns the first student in the array student_names
