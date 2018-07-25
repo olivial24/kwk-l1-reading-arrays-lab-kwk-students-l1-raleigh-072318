@@ -7,10 +7,9 @@ student_Names = [
   "Rihanna"
 ]
 
-student_Names.each[0] do |student|
+student_Names[0] do |student|
     puts student_Names
 end
-end 
 
   # Write a solution that returns the first student in the array student_names
 
